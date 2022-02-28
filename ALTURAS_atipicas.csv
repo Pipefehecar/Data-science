@@ -1,0 +1,487 @@
+.FECHA.ID_ESTACION.NOM_ESTACION.ESPECIE.ESPECIE_DES.ALTURA.DAP.TIPO.TIPO_DES.ESTADO.ESTADO_DES
+1010.2000-01-24.45920.Rinconada -3.AG.Avicennia germinans.18.2.25.3.8.Tronco.6.Vivo
+1017.2000-01-24.45920.Rinconada -3.AG.Avicennia germinans.17.7.29.5.8.Tronco.6.Vivo
+1025.2000-01-24.45920.Rinconada -3.AG.Avicennia germinans.17.7.27.35.8.Tronco.6.Vivo
+1039.2000-01-24.45920.Rinconada -3.AG.Avicennia germinans.17.7.36.6.8.Tronco.6.Vivo
+1179.2014-07-04.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.20.8.8.Tronco.6.Vivo
+1182.2014-07-04.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.32.6.8.Tronco.6.Vivo
+1183.2014-07-04.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.34.3.8.Tronco.6.Vivo
+1184.2014-07-04.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.29.9.8.Tronco.6.Vivo
+1185.2014-07-04.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.36.9.8.Tronco.6.Vivo
+1190.2014-07-04.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.17.9.8.Tronco.6.Vivo
+1243.2014-07-04.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.22.0.8.Tronco.6.Vivo
+1355.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.19.0.20.8.8.Tronco.6.Vivo
+1359.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.32.5.8.Tronco.6.Vivo
+1360.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.34.3.8.Tronco.6.Vivo
+1361.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.20.0.30.4.8.Tronco.6.Vivo
+1362.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.18.0.36.5.8.Tronco.6.Vivo
+1364.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.14.5.7.Rama.6.Vivo
+1365.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.17.5.8.Tronco.6.Vivo
+1378.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.20.0.17.7.8.Tronco.6.Vivo
+1383.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.18.0.16.3.8.Tronco.6.Vivo
+1385.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.5.15.4.8.Tronco.6.Vivo
+1386.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.21.0.17.9.8.Tronco.6.Vivo
+1387.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.21.0.19.5.8.Tronco.6.Vivo
+1396.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.20.0.17.0.8.Tronco.6.Vivo
+1402.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.20.0.17.2.8.Tronco.6.Vivo
+1412.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.18.0.11.5.8.Tronco.6.Vivo
+1416.2013-05-22.45907.Kilómetro 22 -1.AG.Avicennia germinans.22.0.19.8.8.Tronco.6.Vivo
+1496.2012-05-30.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.32.3.8.Tronco.6.Vivo
+1497.2012-05-30.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.34.5.8.Tronco.6.Vivo
+1498.2012-05-30.45907.Kilómetro 22 -1.AG.Avicennia germinans.18.0.29.7.8.Tronco.6.Vivo
+1499.2012-05-30.45907.Kilómetro 22 -1.AG.Avicennia germinans.18.0.36.5.8.Tronco.6.Vivo
+1527.2012-05-30.45907.Kilómetro 22 -1.AG.Avicennia germinans.17.0.19.5.8.Tronco.6.Vivo
+1583.2006-03-01.45910.Kilómetro 22 -2.AG.Avicennia germinans.19.45.7.8.8.Tronco.6.Vivo
+1584.2006-03-01.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.03.8.9.8.Tronco.6.Vivo
+1625.2006-03-01.45910.Kilómetro 22 -2.RM.Rhizophora mangle.17.6.4.0.8.Tronco.6.Vivo
+1626.2006-03-01.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.7.4.8.8.Tronco.6.Vivo
+1628.2006-03-01.45910.Kilómetro 22 -2.AG.Avicennia germinans.19.7.6.7.8.Tronco.6.Vivo
+1632.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.36.7.8.Tronco.6.Vivo
+1633.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.44.3.8.Tronco.6.Vivo
+1634.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.18.2.8.Tronco.6.Vivo
+1636.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.21.0.11.0.8.Tronco.6.Vivo
+1641.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.21.0.14.9.8.Tronco.6.Vivo
+1646.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.22.0.13.2.8.Tronco.6.Vivo
+1647.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.22.0.15.0.8.Tronco.6.Vivo
+1648.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.17.0.15.8.8.Tronco.6.Vivo
+1649.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.18.3.8.Tronco.6.Vivo
+1652.2015-03-04.45910.Kilómetro 22 -2.LR.Laguncularia racemosa.17.0.14.1.8.Tronco.6.Vivo
+1655.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.24.0.14.0.8.Tronco.6.Vivo
+1658.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.26.0.21.5.8.Tronco.6.Vivo
+1662.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.11.2.8.Tronco.6.Vivo
+1663.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.25.0.17.0.8.Tronco.6.Vivo
+1664.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.23.0.17.0.8.Tronco.6.Vivo
+1678.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.24.5.8.Tronco.6.Vivo
+1679.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.19.0.23.8.8.Tronco.6.Vivo
+1686.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.25.0.21.5.8.Tronco.6.Vivo
+1688.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.21.0.34.5.8.Tronco.6.Vivo
+1698.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.17.0.8.Tronco.6.Vivo
+1699.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.80.0.5.2.8.Tronco.6.Vivo
+1700.2015-03-04.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.16.0.8.Tronco.6.Vivo
+1709.2016-03-10.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.43.3.8.Tronco.6.Vivo
+1712.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.36.1.8.Tronco.6.Vivo
+1713.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.41.4.8.Tronco.6.Vivo
+1714.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.18.0.8.Tronco.6.Vivo
+1716.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.21.0.11.9.8.Tronco.6.Vivo
+1721.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.14.7.8.Tronco.6.Vivo
+1727.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.22.0.13.0.8.Tronco.6.Vivo
+1728.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.22.0.14.9.8.Tronco.6.Vivo
+1729.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.15.6.8.Tronco.6.Vivo
+1730.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.18.1.8.Tronco.6.Vivo
+1741.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.22.0.12.7.8.Tronco.6.Vivo
+1744.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.26.0.20.3.8.Tronco.6.Vivo
+1753.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.11.0.8.Tronco.6.Vivo
+1754.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.25.0.16.6.8.Tronco.6.Vivo
+1755.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.23.0.17.5.8.Tronco.6.Vivo
+1775.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.17.0.24.8.8.Tronco.6.Vivo
+1777.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.23.7.8.Tronco.6.Vivo
+1794.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.34.8.8.Tronco.6.Vivo
+1818.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.17.0.8.Tronco.6.Vivo
+1820.2014-02-12.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.16.0.8.Tronco.6.Vivo
+1969.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.17.0.36.1.8.Tronco.6.Vivo
+1970.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.41.4.8.Tronco.6.Vivo
+1971.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.19.0.17.8.8.Tronco.6.Vivo
+1973.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.21.0.11.1.8.Tronco.6.Vivo
+1978.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.33.5.8.Tronco.6.Vivo
+1979.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.14.4.8.Tronco.6.Vivo
+1985.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.22.0.13.1.8.Tronco.6.Vivo
+1986.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.22.0.15.0.8.Tronco.6.Vivo
+1987.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.17.0.15.7.8.Tronco.6.Vivo
+1988.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.18.2.8.Tronco.6.Vivo
+1999.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.20.0.12.8.8.Tronco.6.Vivo
+2001.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.26.0.20.0.8.Tronco.6.Vivo
+2010.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.11.3.8.Tronco.6.Vivo
+2011.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.25.0.16.5.8.Tronco.6.Vivo
+2012.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.23.0.17.3.8.Tronco.6.Vivo
+2033.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.23.3.8.Tronco.6.Vivo
+2037.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.18.0.18.6.8.Tronco.6.Vivo
+2045.2013-05-22.45910.Kilómetro 22 -2.AG.Avicennia germinans.25.0.21.1.8.Tronco.6.Vivo
+2175.2006-03-01.45912.Kilómetro 22 -3.AG.Avicennia germinans.32.7.27.8.8.Tronco.6.Vivo
+2186.2006-03-01.45912.Kilómetro 22 -3.AG.Avicennia germinans.19.5.8.9.8.Tronco.6.Vivo
+2187.2006-03-01.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.7.10.7.8.Tronco.6.Vivo
+2188.2006-03-01.45912.Kilómetro 22 -3.AG.Avicennia germinans.27.7.14.4.8.Tronco.6.Vivo
+2204.2006-03-01.45912.Kilómetro 22 -3.AG.Avicennia germinans.19.2.10.3.8.Tronco.6.Vivo
+2209.2006-03-01.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.34.7.10.9.8.Tronco.6.Vivo
+2211.2006-03-01.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.25.7.7.5.8.Tronco.6.Vivo
+2212.2006-03-01.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.23.2.10.4.8.Tronco.6.Vivo
+2219.2006-03-01.45912.Kilómetro 22 -3.AG.Avicennia germinans.26.7.15.6.8.Tronco.6.Vivo
+2220.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.24.0.30.0.8.Tronco.6.Vivo
+2221.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.21.0.33.5.8.Tronco.6.Vivo
+2222.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.25.0.28.1.8.Tronco.6.Vivo
+2226.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.23.0.37.4.8.Tronco.6.Vivo
+2228.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.24.0.27.7.8.Tronco.6.Vivo
+2231.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.24.0.8.Tronco.6.Vivo
+2233.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.19.6.8.Tronco.6.Vivo
+2237.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.19.0.10.4.7.Rama.6.Vivo
+2241.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.26.0.32.6.8.Tronco.6.Vivo
+2243.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.26.0.30.3.8.Tronco.6.Vivo
+2251.2015-03-04.45912.Kilómetro 22 -3.AG.Avicennia germinans.19.0.20.4.8.Tronco.6.Vivo
+2465.2014-02-11.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.25.3.8.Tronco.6.Vivo
+2478.2014-02-11.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.15.9.8.Tronco.6.Vivo
+2480.2014-02-11.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.12.8.8.Tronco.6.Vivo
+2481.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.25.0.29.7.8.Tronco.6.Vivo
+2482.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.21.0.32.9.8.Tronco.6.Vivo
+2483.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.25.0.27.4.8.Tronco.6.Vivo
+2488.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.22.0.36.8.8.Tronco.6.Vivo
+2490.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.25.0.27.6.8.Tronco.6.Vivo
+2494.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.23.9.8.Tronco.6.Vivo
+2496.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.19.6.8.Tronco.6.Vivo
+2500.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.18.0.12.0.7.Rama.6.Vivo
+2505.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.25.0.29.5.8.Tronco.6.Vivo
+2507.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.25.0.30.0.8.Tronco.6.Vivo
+2515.2014-02-12.45912.Kilómetro 22 -3.AG.Avicennia germinans.18.0.20.3.8.Tronco.6.Vivo
+2538.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.23.0.30.1.8.Tronco.6.Vivo
+2540.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.33.0.8.Tronco.6.Vivo
+2541.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.18.0.26.8.8.Tronco.6.Vivo
+2547.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.22.0.36.7.8.Tronco.6.Vivo
+2549.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.27.4.8.Tronco.6.Vivo
+2554.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.18.0.23.7.8.Tronco.6.Vivo
+2559.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.18.4.8.Tronco.6.Vivo
+2560.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.26.0.8.Tronco.6.Vivo
+2562.2013-05-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.22.0.15.8.8.Tronco.6.Vivo
+2566.2013-05-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.18.0.11.3.8.Tronco.6.Vivo
+2568.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.19.4.8.Tronco.6.Vivo
+2574.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.23.0.29.2.8.Tronco.6.Vivo
+2576.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.30.2.8.Tronco.6.Vivo
+2584.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.18.0.20.0.8.Tronco.6.Vivo
+2588.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.18.0.24.9.8.Tronco.6.Vivo
+2600.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.17.7.8.Tronco.6.Vivo
+2604.2013-05-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.19.0.13.2.8.Tronco.6.Vivo
+2606.2013-05-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.18.0.14.2.8.Tronco.6.Vivo
+2610.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.25.0.23.7.8.Tronco.6.Vivo
+2616.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.25.2.8.Tronco.6.Vivo
+2618.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.18.0.31.5.8.Tronco.6.Vivo
+2624.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.16.2.8.Tronco.6.Vivo
+2627.2013-05-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.19.0.12.7.8.Tronco.6.Vivo
+2628.2013-05-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.18.0.14.6.8.Tronco.6.Vivo
+2633.2013-05-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.18.0.11.8.8.Tronco.6.Vivo
+2645.2014-09-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.19.2.8.Tronco.6.Vivo
+2648.2014-09-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.22.0.16.1.8.Tronco.6.Vivo
+2650.2014-09-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.17.0.15.9.8.Tronco.6.Vivo
+2652.2014-09-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.18.0.11.5.8.Tronco.6.Vivo
+2657.2014-09-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.17.8.8.Tronco.6.Vivo
+2661.2014-09-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.20.0.13.5.8.Tronco.6.Vivo
+2663.2014-09-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.19.0.14.2.8.Tronco.6.Vivo
+2673.2014-09-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.20.0.25.2.8.Tronco.6.Vivo
+2674.2014-09-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.19.0.31.6.8.Tronco.6.Vivo
+2675.2014-09-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.19.0.14.6.8.Tronco.6.Vivo
+2679.2014-09-22.45912.Kilómetro 22 -3.AG.Avicennia germinans.25.0.23.4.8.Tronco.6.Vivo
+2680.2014-09-22.45912.Kilómetro 22 -3.LR.Laguncularia racemosa.18.0.12.0.8.Tronco.6.Vivo
+2856.2006-03-01.45914.Rinconada -1.AG.Avicennia germinans.17.6.12.0.7.Rama.6.Vivo
+3010.2015-03-04.45914.Rinconada -1.AG.Avicennia germinans.18.0.42.5.8.Tronco.6.Vivo
+3012.2015-03-04.45914.Rinconada -1.AG.Avicennia germinans.20.0.21.8.8.Tronco.6.Vivo
+3015.2015-03-04.45914.Rinconada -1.AG.Avicennia germinans.18.0.28.8.8.Tronco.6.Vivo
+3016.2015-03-04.45914.Rinconada -1.AG.Avicennia germinans.23.0.34.0.8.Tronco.6.Vivo
+3037.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.15.2.8.Tronco.6.Vivo
+3038.2015-03-06.45914.Rinconada -1.AG.Avicennia germinans.22.0.26.7.8.Tronco.6.Vivo
+3044.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.12.7.7.Rama.6.Vivo
+3046.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.16.0.7.Rama.6.Vivo
+3048.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.17.4.7.Rama.6.Vivo
+3065.2015-03-06.45914.Rinconada -1.AG.Avicennia germinans.20.0.14.0.8.Tronco.6.Vivo
+3081.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.15.8.8.Tronco.6.Vivo
+3084.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.10.2.8.Tronco.6.Vivo
+3085.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.17.0.12.2.8.Tronco.6.Vivo
+3088.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.10.0.8.Tronco.6.Vivo
+3097.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.17.0.19.8.8.Tronco.6.Vivo
+3104.2015-03-06.45914.Rinconada -1.AG.Avicennia germinans.18.0.13.3.8.Tronco.6.Vivo
+3105.2015-03-06.45914.Rinconada -1.AG.Avicennia germinans.20.0.17.7.8.Tronco.6.Vivo
+3106.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.20.0.15.1.8.Tronco.6.Vivo
+3107.2015-03-06.45914.Rinconada -1.AG.Avicennia germinans.20.0.22.1.8.Tronco.6.Vivo
+3109.2015-03-06.45914.Rinconada -1.LR.Laguncularia racemosa.20.0.10.8.8.Tronco.6.Vivo
+3572.2005-06-21.45914.Rinconada -1.LR.Laguncularia racemosa.18.2.9.0.8.Tronco.6.Vivo
+3610.2013-05-23.45914.Rinconada -1.AG.Avicennia germinans.18.0.42.6.8.Tronco.6.Vivo
+3613.2013-05-23.45914.Rinconada -1.AG.Avicennia germinans.18.0.21.8.8.Tronco.6.Vivo
+3616.2013-05-23.45914.Rinconada -1.AG.Avicennia germinans.18.0.27.7.8.Tronco.6.Vivo
+3617.2013-05-23.45914.Rinconada -1.AG.Avicennia germinans.22.0.32.3.8.Tronco.6.Vivo
+3621.2013-05-23.45914.Rinconada -1.AG.Avicennia germinans.21.0.25.5.8.Tronco.6.Vivo
+3627.2013-05-23.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.12.2.7.Rama.6.Vivo
+3629.2013-05-23.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.15.2.7.Rama.6.Vivo
+3631.2013-05-23.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.17.2.7.Rama.6.Vivo
+3652.2013-05-23.45914.Rinconada -1.AG.Avicennia germinans.19.0.13.9.8.Tronco.6.Vivo
+3691.2013-05-23.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.15.3.8.Tronco.6.Vivo
+3698.2013-05-23.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.10.0.8.Tronco.6.Vivo
+3702.2013-05-23.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.9.2.8.Tronco.6.Vivo
+3706.2013-05-23.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.13.6.8.Tronco.6.Vivo
+3720.2013-05-23.45914.Rinconada -1.LR.Laguncularia racemosa.17.0.15.8.8.Tronco.6.Vivo
+3729.2013-05-23.45914.Rinconada -1.AG.Avicennia germinans.18.0.13.0.8.Tronco.6.Vivo
+3730.2013-05-23.45914.Rinconada -1.AG.Avicennia germinans.20.0.15.3.8.Tronco.6.Vivo
+3731.2013-05-23.45914.Rinconada -1.LR.Laguncularia racemosa.20.0.14.3.8.Tronco.6.Vivo
+3732.2013-05-23.45914.Rinconada -1.AG.Avicennia germinans.19.0.21.1.8.Tronco.6.Vivo
+3734.2013-05-23.45914.Rinconada -1.LR.Laguncularia racemosa.19.0.10.4.8.Tronco.6.Vivo
+3770.2014-09-24.45914.Rinconada -1.AG.Avicennia germinans.18.0.43.5.8.Tronco.6.Vivo
+3773.2014-09-24.45914.Rinconada -1.AG.Avicennia germinans.20.0.21.9.8.Tronco.6.Vivo
+3776.2014-09-24.45914.Rinconada -1.AG.Avicennia germinans.18.0.28.8.8.Tronco.6.Vivo
+3777.2014-09-24.45914.Rinconada -1.AG.Avicennia germinans.23.0.33.9.8.Tronco.6.Vivo
+3779.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.15.0.8.Tronco.6.Vivo
+3780.2014-09-24.45914.Rinconada -1.AG.Avicennia germinans.22.0.26.2.8.Tronco.6.Vivo
+3786.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.12.2.7.Rama.6.Vivo
+3788.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.15.8.7.Rama.6.Vivo
+3790.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.17.4.7.Rama.6.Vivo
+3809.2014-09-24.45914.Rinconada -1.AG.Avicennia germinans.20.0.13.8.8.Tronco.6.Vivo
+3842.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.15.7.8.Tronco.6.Vivo
+3845.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.10.1.8.Tronco.6.Vivo
+3846.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.17.0.11.9.8.Tronco.6.Vivo
+3849.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.18.0.9.8.8.Tronco.6.Vivo
+3858.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.17.0.16.5.8.Tronco.6.Vivo
+3865.2014-09-24.45914.Rinconada -1.AG.Avicennia germinans.18.0.13.4.8.Tronco.6.Vivo
+3866.2014-09-24.45914.Rinconada -1.AG.Avicennia germinans.20.0.16.9.8.Tronco.6.Vivo
+3867.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.20.0.14.7.8.Tronco.6.Vivo
+3868.2014-09-24.45914.Rinconada -1.AG.Avicennia germinans.20.0.21.7.8.Tronco.6.Vivo
+3870.2014-09-24.45914.Rinconada -1.LR.Laguncularia racemosa.20.0.10.5.8.Tronco.6.Vivo
+3905.2012-06-27.45914.Rinconada -1.AG.Avicennia germinans.18.0.42.6.8.Tronco.6.Vivo
+3908.2012-06-27.45914.Rinconada -1.AG.Avicennia germinans.20.0.21.8.8.Tronco.6.Vivo
+3912.2012-06-27.45914.Rinconada -1.AG.Avicennia germinans.22.0.31.3.8.Tronco.6.Vivo
+3917.2012-06-27.45914.Rinconada -1.AG.Avicennia germinans.20.0.24.9.8.Tronco.6.Vivo
+4034.2012-06-27.45914.Rinconada -1.AG.Avicennia germinans.18.0.14.4.8.Tronco.6.Vivo
+4035.2012-06-27.45914.Rinconada -1.LR.Laguncularia racemosa.20.0.13.4.8.Tronco.6.Vivo
+4036.2012-06-27.45914.Rinconada -1.AG.Avicennia germinans.18.0.20.6.8.Tronco.6.Vivo
+4267.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.18.0.30.0.8.Tronco.6.Vivo
+4268.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.17.0.18.4.8.Tronco.6.Vivo
+4269.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.18.0.34.3.8.Tronco.6.Vivo
+4270.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.18.0.23.4.7.Rama.6.Vivo
+4271.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.20.0.33.5.8.Tronco.6.Vivo
+4272.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.20.0.27.2.7.Rama.6.Vivo
+4274.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.17.0.12.2.8.Tronco.6.Vivo
+4277.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.18.0.26.4.8.Tronco.6.Vivo
+4278.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.18.0.29.5.8.Tronco.6.Vivo
+4283.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.20.0.35.2.8.Tronco.6.Vivo
+4286.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.18.0.22.5.7.Rama.6.Vivo
+4287.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.18.0.16.0.8.Tronco.6.Vivo
+4288.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.20.0.34.8.8.Tronco.6.Vivo
+4289.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.18.0.16.6.8.Tronco.6.Vivo
+4304.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.17.0.11.6.8.Tronco.6.Vivo
+4305.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.18.0.10.8.8.Tronco.6.Vivo
+4311.2012-06-01.45916.Rinconada -2.LR.Laguncularia racemosa.18.0.10.0.8.Tronco.6.Vivo
+4314.2012-06-01.45916.Rinconada -2.LR.Laguncularia racemosa.17.0.9.0.8.Tronco.6.Vivo
+4315.2012-06-01.45916.Rinconada -2.LR.Laguncularia racemosa.17.0.7.8.7.Rama.6.Vivo
+4317.2012-06-01.45916.Rinconada -2.LR.Laguncularia racemosa.18.0.7.8.8.Tronco.6.Vivo
+4318.2012-06-01.45916.Rinconada -2.LR.Laguncularia racemosa.17.0.21.6.8.Tronco.6.Vivo
+4320.2012-06-01.45916.Rinconada -2.LR.Laguncularia racemosa.18.0.10.1.8.Tronco.6.Vivo
+4322.2012-06-01.45916.Rinconada -2.LR.Laguncularia racemosa.17.0.9.6.8.Tronco.6.Vivo
+4327.2012-06-01.45916.Rinconada -2.AG.Avicennia germinans.17.0.4.7.7.Rama.6.Vivo
+4329.2012-06-01.45916.Rinconada -2.LR.Laguncularia racemosa.17.0.10.5.8.Tronco.6.Vivo
+4330.2012-06-01.45916.Rinconada -2.LR.Laguncularia racemosa.17.0.9.8.8.Tronco.6.Vivo
+4388.2013-09-04.45916.Rinconada -2.AG.Avicennia germinans.20.0.35.7.8.Tronco.6.Vivo
+4390.2013-09-04.45916.Rinconada -2.AG.Avicennia germinans.18.0.21.9.8.Tronco.6.Vivo
+4391.2013-09-04.45916.Rinconada -2.AG.Avicennia germinans.20.0.22.2.7.Rama.6.Vivo
+4392.2013-09-04.45916.Rinconada -2.AG.Avicennia germinans.17.0.16.0.8.Tronco.6.Vivo
+4393.2013-09-04.45916.Rinconada -2.AG.Avicennia germinans.20.0.34.0.8.Tronco.6.Vivo
+4633.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.32.0.8.Tronco.6.Vivo
+4634.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.30.0.8.Tronco.6.Vivo
+4635.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.25.0.25.5.8.Tronco.6.Vivo
+4636.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.13.0.8.Tronco.6.Vivo
+4637.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.18.0.8.Tronco.6.Vivo
+4638.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.27.1.8.Tronco.6.Vivo
+4639.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.23.0.30.5.8.Tronco.6.Vivo
+4640.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.19.0.15.0.8.Tronco.6.Vivo
+4641.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.21.3.8.Tronco.6.Vivo
+4642.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.22.0.34.5.8.Tronco.6.Vivo
+4643.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.18.0.17.5.8.Tronco.6.Vivo
+4644.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.22.0.8.Tronco.6.Vivo
+4645.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.22.0.7.Rama.6.Vivo
+4646.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.18.0.16.0.8.Tronco.6.Vivo
+4647.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.34.0.8.Tronco.6.Vivo
+4669.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.23.8.8.Tronco.6.Vivo
+4696.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.20.0.23.0.8.Tronco.6.Vivo
+4712.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.18.0.6.0.7.Rama.6.Vivo
+4721.2014-02-11.45916.Rinconada -2.AG.Avicennia germinans.25.0.19.0.7.Rama.6.Vivo
+4736.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.20.0.30.7.8.Tronco.6.Vivo
+4737.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.17.0.19.7.8.Tronco.6.Vivo
+4738.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.20.0.33.6.8.Tronco.6.Vivo
+4739.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.18.0.23.4.7.Rama.6.Vivo
+4740.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.20.0.29.2.7.Rama.6.Vivo
+4741.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.18.0.23.8.8.Tronco.6.Vivo
+4742.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.17.0.12.9.8.Tronco.6.Vivo
+4744.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.19.0.22.6.8.Tronco.6.Vivo
+4745.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.20.0.26.6.8.Tronco.6.Vivo
+4746.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.22.0.30.3.8.Tronco.6.Vivo
+4747.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.18.0.14.9.8.Tronco.6.Vivo
+4749.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.19.0.21.3.8.Tronco.6.Vivo
+4756.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.20.0.22.3.8.Tronco.6.Vivo
+4759.2013-04-16.45916.Rinconada -2.AG.Avicennia germinans.18.0.22.9.8.Tronco.6.Vivo
+4767.2012-06-18.45916.Rinconada -2.AG.Avicennia germinans.19.0.22.9.8.Tronco.6.Vivo
+4929.2005-06-21.45916.Rinconada -2.LR.Laguncularia racemosa.31.6.17.0.8.Tronco.6.Vivo
+4965.2021-06-21.45916.Rinconada -2.AG.Avicennia germinans.17.0.23.8.8.Tronco.6.Vivo
+4971.2021-06-21.45916.Rinconada -2.AG.Avicennia germinans.18.0.13.9.8.Tronco.6.Vivo
+4983.2021-06-21.45916.Rinconada -2.LR.Laguncularia racemosa.20.0.14.9.8.Tronco.6.Vivo
+4984.2021-06-21.45916.Rinconada -2.LR.Laguncularia racemosa.20.0.13.0.8.Tronco.6.Vivo
+5042.1999-11-23.45916.Rinconada -2.AG.Avicennia germinans.17.2.19.7.7.Rama.6.Vivo
+5195.2006-03-01.45920.Rinconada -3.AG.Avicennia germinans.21.5.14.7.8.Tronco.6.Vivo
+5229.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.22.5.34.6.8.Tronco.6.Vivo
+5230.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.18.0.15.6.8.Tronco.6.Vivo
+5231.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.18.0.16.1.8.Tronco.6.Vivo
+5233.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.25.0.41.3.8.Tronco.6.Vivo
+5234.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.18.0.22.2.8.Tronco.6.Vivo
+5235.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.20.0.19.7.8.Tronco.6.Vivo
+5236.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.20.0.34.5.8.Tronco.5.Partido
+5238.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.22.0.33.5.8.Tronco.6.Vivo
+5240.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.26.0.35.2.8.Tronco.6.Vivo
+5241.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.20.0.28.7.8.Tronco.6.Vivo
+5242.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.26.0.29.4.8.Tronco.6.Vivo
+5244.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.24.0.31.3.8.Tronco.6.Vivo
+5247.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.29.0.44.8.8.Tronco.6.Vivo
+5249.2012-06-01.45920.Rinconada -3.RM.Rhizophora mangle.25.0.37.0.8.Tronco.6.Vivo
+5250.2012-06-01.45920.Rinconada -3.RM.Rhizophora mangle.25.0.22.0.7.Rama.6.Vivo
+5255.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.20.0.24.0.8.Tronco.6.Vivo
+5256.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.28.0.31.5.8.Tronco.6.Vivo
+5257.2012-06-01.45920.Rinconada -3.AG.Avicennia germinans.20.0.28.0.8.Tronco.6.Vivo
+5279.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.22.0.37.2.8.Tronco.6.Vivo
+5280.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.20.0.16.4.8.Tronco.6.Vivo
+5282.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.26.0.43.8.8.Tronco.6.Vivo
+5283.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.22.0.22.6.8.Tronco.6.Vivo
+5284.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.20.0.20.5.8.Tronco.6.Vivo
+5285.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.22.0.35.1.8.Tronco.6.Vivo
+5287.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.25.0.34.2.8.Tronco.6.Vivo
+5289.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.25.0.35.9.8.Tronco.6.Vivo
+5290.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.22.0.29.2.8.Tronco.6.Vivo
+5292.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.25.0.32.5.8.Tronco.6.Vivo
+5294.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.25.0.45.8.8.Tronco.6.Vivo
+5296.2014-07-01.45920.Rinconada -3.RM.Rhizophora mangle.25.0.36.9.8.Tronco.6.Vivo
+5297.2014-07-01.45920.Rinconada -3.RM.Rhizophora mangle.25.0.21.9.7.Rama.6.Vivo
+5302.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.20.0.24.0.8.Tronco.6.Vivo
+5303.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.25.0.32.0.8.Tronco.6.Vivo
+5304.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.22.0.28.4.8.Tronco.6.Vivo
+5333.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.20.0.22.8.8.Tronco.6.Vivo
+5334.2014-07-01.45920.Rinconada -3.AG.Avicennia germinans.20.0.10.0.8.Tronco.6.Vivo
+5342.2014-07-01.45920.Rinconada -3.LR.Laguncularia racemosa.25.0.24.7.8.Tronco.6.Vivo
+5353.2001-05-04.45920.Rinconada -3.AG.Avicennia germinans.17.7.33.0.8.Tronco.6.Vivo
+5357.2001-05-04.45920.Rinconada -3.AG.Avicennia germinans.17.7.19.5.8.Tronco.6.Vivo
+5359.2001-05-04.45920.Rinconada -3.AG.Avicennia germinans.17.7.29.5.8.Tronco.1.Caido
+5363.2001-05-04.45920.Rinconada -3.AG.Avicennia germinans.23.7.29.0.8.Tronco.6.Vivo
+5388.2001-05-04.45920.Rinconada -3.AG.Avicennia germinans.19.7.17.4.8.Tronco.6.Vivo
+5487.2016-03-11.45920.Rinconada -3.AG.Avicennia germinans.18.0.17.7.8.Tronco.6.Vivo
+5498.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.22.0.35.4.8.Tronco.6.Vivo
+5499.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.18.0.15.6.8.Tronco.6.Vivo
+5500.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.20.0.16.2.8.Tronco.6.Vivo
+5502.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.25.0.42.7.8.Tronco.6.Vivo
+5503.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.18.0.22.4.8.Tronco.6.Vivo
+5504.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.21.0.20.1.8.Tronco.6.Vivo
+5505.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.22.0.36.4.8.Tronco.6.Vivo
+5507.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.24.0.33.5.8.Tronco.6.Vivo
+5509.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.27.0.35.7.8.Tronco.6.Vivo
+5510.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.21.0.29.0.8.Tronco.6.Vivo
+5511.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.26.0.30.4.8.Tronco.6.Vivo
+5513.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.25.0.31.3.8.Tronco.6.Vivo
+5515.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.29.0.44.8.8.Tronco.6.Vivo
+5517.2013-04-16.45920.Rinconada -3.RM.Rhizophora mangle.25.0.35.4.8.Tronco.6.Vivo
+5518.2013-04-16.45920.Rinconada -3.RM.Rhizophora mangle.25.0.21.5.7.Rama.6.Vivo
+5522.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.20.0.24.0.8.Tronco.6.Vivo
+5523.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.25.0.32.1.8.Tronco.6.Vivo
+5524.2013-04-16.45920.Rinconada -3.AG.Avicennia germinans.23.0.28.9.8.Tronco.6.Vivo
+5766.2006-03-01.45922.Luna -1.AG.Avicennia germinans.17.5.18.4.8.Tronco.6.Vivo
+6024.2006-03-01.45924.Aguas Negras -1.LR.Laguncularia racemosa.25.7.13.9.8.Tronco.6.Vivo
+6037.2006-03-01.45924.Aguas Negras -1.AG.Avicennia germinans.25.7.17.0.8.Tronco.6.Vivo
+6193.2005-06-22.45924.Aguas Negras -1.AG.Avicennia germinans.27.7.11.8.8.Tronco.6.Vivo
+6220.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.20.0.22.0.8.Tronco.6.Vivo
+6225.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.20.0.45.0.8.Tronco.6.Vivo
+6227.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.22.0.28.8.8.Tronco.6.Vivo
+6228.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.18.0.19.5.8.Tronco.6.Vivo
+6230.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.17.0.23.4.8.Tronco.6.Vivo
+6232.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.17.0.16.4.8.Tronco.6.Vivo
+6235.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.18.0.10.7.8.Tronco.6.Vivo
+6237.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.18.0.13.5.8.Tronco.6.Vivo
+6238.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.20.0.19.5.8.Tronco.6.Vivo
+6239.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.20.0.21.5.8.Tronco.6.Vivo
+6242.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.22.0.24.5.8.Tronco.6.Vivo
+6243.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.20.0.26.5.8.Tronco.6.Vivo
+6246.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.18.0.15.4.8.Tronco.6.Vivo
+6247.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.18.0.10.6.7.Rama.6.Vivo
+6256.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.22.0.32.0.8.Tronco.6.Vivo
+6258.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.17.0.20.7.8.Tronco.6.Vivo
+6262.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.17.0.19.4.8.Tronco.6.Vivo
+6263.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.22.0.25.5.8.Tronco.6.Vivo
+6265.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.20.0.23.1.8.Tronco.6.Vivo
+6267.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.18.0.13.1.8.Tronco.6.Vivo
+6269.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.18.0.19.1.8.Tronco.6.Vivo
+6270.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.18.0.11.7.7.Rama.6.Vivo
+6271.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.20.0.35.5.8.Tronco.6.Vivo
+6276.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.20.0.24.5.8.Tronco.6.Vivo
+6280.2021-06-24.45924.Aguas Negras -1.AG.Avicennia germinans.17.0.13.7.8.Tronco.6.Vivo
+6385.2014-11-27.45924.Aguas Negras -1.AG.Avicennia germinans.18.0.22.4.8.Tronco.6.Vivo
+6386.2014-11-27.45924.Aguas Negras -1.AG.Avicennia germinans.18.0.20.0.8.Tronco.6.Vivo
+6651.2006-03-01.45928.Aguas Negras -3.AG.Avicennia germinans.18.7.18.9.8.Tronco.6.Vivo
+6749.2013-04-18.45928.Aguas Negras -3.AG.Avicennia germinans.18.0.13.1.8.Tronco.6.Vivo
+6762.2013-04-18.45928.Aguas Negras -3.AG.Avicennia germinans.30.0.27.8.8.Tronco.6.Vivo
+6764.2013-04-18.45928.Aguas Negras -3.LR.Laguncularia racemosa.21.0.16.6.8.Tronco.6.Vivo
+6765.2013-04-18.45928.Aguas Negras -3.AG.Avicennia germinans.20.0.21.2.8.Tronco.6.Vivo
+6766.2013-04-18.45928.Aguas Negras -3.LR.Laguncularia racemosa.20.0.13.2.8.Tronco.6.Vivo
+6771.2013-04-18.45928.Aguas Negras -3.LR.Laguncularia racemosa.22.0.19.1.8.Tronco.6.Vivo
+6772.2013-04-18.45928.Aguas Negras -3.LR.Laguncularia racemosa.20.0.10.3.8.Tronco.6.Vivo
+6773.2013-04-18.45928.Aguas Negras -3.LR.Laguncularia racemosa.21.5.15.0.8.Tronco.6.Vivo
+6774.2013-04-18.45928.Aguas Negras -3.AG.Avicennia germinans.20.0.23.5.8.Tronco.6.Vivo
+6775.2013-04-18.45928.Aguas Negras -3.AG.Avicennia germinans.18.5.21.6.8.Tronco.6.Vivo
+6776.2013-04-18.45928.Aguas Negras -3.AG.Avicennia germinans.23.0.36.5.8.Tronco.6.Vivo
+6780.2013-04-18.45928.Aguas Negras -3.LR.Laguncularia racemosa.18.0.13.2.8.Tronco.6.Vivo
+6784.2013-04-18.45928.Aguas Negras -3.AG.Avicennia germinans.20.0.22.6.8.Tronco.6.Vivo
+6789.2013-04-18.45928.Aguas Negras -3.LR.Laguncularia racemosa.20.0.11.2.8.Tronco.6.Vivo
+6790.2013-04-18.45928.Aguas Negras -3.LR.Laguncularia racemosa.23.0.16.2.8.Tronco.6.Vivo
+6791.2013-04-18.45928.Aguas Negras -3.LR.Laguncularia racemosa.22.0.15.4.8.Tronco.6.Vivo
+6844.2005-06-22.45928.Aguas Negras -3.LR.Laguncularia racemosa.19.7.4.4.8.Tronco.6.Vivo
+6849.2005-06-22.45928.Aguas Negras -3.LR.Laguncularia racemosa.23.1.9.0.8.Tronco.6.Vivo
+6855.2005-06-22.45928.Aguas Negras -3.LR.Laguncularia racemosa.20.2.6.0.8.Tronco.6.Vivo
+6876.2014-09-23.45928.Aguas Negras -3.AG.Avicennia germinans.20.0.29.6.8.Tronco.6.Vivo
+6877.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.18.0.18.5.8.Tronco.6.Vivo
+6878.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.20.0.17.1.8.Tronco.6.Vivo
+6879.2014-09-23.45928.Aguas Negras -3.AG.Avicennia germinans.20.0.21.6.8.Tronco.6.Vivo
+6880.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.20.0.13.5.8.Tronco.6.Vivo
+6884.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.18.0.8.1.8.Tronco.6.Vivo
+6885.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.22.0.20.2.8.Tronco.6.Vivo
+6886.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.20.0.10.4.8.Tronco.6.Vivo
+6887.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.20.0.13.1.8.Tronco.1.Caido
+6888.2014-09-23.45928.Aguas Negras -3.AG.Avicennia germinans.20.0.23.7.8.Tronco.6.Vivo
+6889.2014-09-23.45928.Aguas Negras -3.AG.Avicennia germinans.18.0.20.4.8.Tronco.1.Caido
+6890.2014-09-23.45928.Aguas Negras -3.AG.Avicennia germinans.23.0.39.8.8.Tronco.6.Vivo
+6896.2014-09-23.45928.Aguas Negras -3.AG.Avicennia germinans.20.0.18.4.8.Tronco.6.Vivo
+6927.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.18.0.12.8.8.Tronco.6.Vivo
+6931.2014-09-23.45928.Aguas Negras -3.AG.Avicennia germinans.20.0.23.6.8.Tronco.6.Vivo
+6941.2014-09-23.45928.Aguas Negras -3.AG.Avicennia germinans.18.0.13.0.8.Tronco.6.Vivo
+6942.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.20.0.11.6.8.Tronco.6.Vivo
+6944.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.23.0.16.6.8.Tronco.6.Vivo
+6945.2014-09-23.45928.Aguas Negras -3.LR.Laguncularia racemosa.22.0.15.5.8.Tronco.6.Vivo
+7222.2005-06-15.45930.Ciénaga Grande E-1.AG.Avicennia germinans.18.7.9.5.7.Rama.6.Vivo
+7224.2005-06-15.45930.Ciénaga Grande E-1.AG.Avicennia germinans.29.7.13.0.8.Tronco.6.Vivo
+7225.2005-06-15.45930.Ciénaga Grande E-1.AG.Avicennia germinans.19.7.8.3.8.Tronco.6.Vivo
+7259.2021-06-22.45930.Ciénaga Grande E-1.RM.Rhizophora mangle.17.0.27.0.8.Tronco.6.Vivo
+7260.2021-06-22.45930.Ciénaga Grande E-1.RM.Rhizophora mangle.20.0.10.0.8.Tronco.6.Vivo
+7261.2021-06-22.45930.Ciénaga Grande E-1.RM.Rhizophora mangle.20.0.23.1.8.Tronco.6.Vivo
+7262.2021-06-22.45930.Ciénaga Grande E-1.RM.Rhizophora mangle.17.0.22.9.8.Tronco.6.Vivo
+7264.2021-06-22.45930.Ciénaga Grande E-1.RM.Rhizophora mangle.18.0.25.6.8.Tronco.6.Vivo
+7269.2021-06-22.45930.Ciénaga Grande E-1.RM.Rhizophora mangle.20.0.18.7.8.Tronco.6.Vivo
+7378.2012-05-30.45930.Ciénaga Grande E-1.RM.Rhizophora mangle.18.0.22.2.8.Tronco.6.Vivo
+7400.2012-05-30.45930.Ciénaga Grande E-1.RM.Rhizophora mangle.17.0.19.1.8.Tronco.6.Vivo
+7555.2013-09-05.45932.Ciéanga Grande E-2.RM.Rhizophora mangle.17.0.13.5.8.Tronco.6.Vivo
+7671.1995-07-29.45932.Ciéanga Grande E-2.AG.Avicennia germinans.17.5.19.4.8.Tronco.6.Vivo
+7796.2012-05-30.45932.Ciéanga Grande E-2.RM.Rhizophora mangle.17.0.13.5.8.Tronco.6.Vivo
+7797.2012-05-30.45932.Ciéanga Grande E-2.RM.Rhizophora mangle.17.0.13.3.8.Tronco.6.Vivo
+7800.2012-05-30.45932.Ciéanga Grande E-2.RM.Rhizophora mangle.17.0.12.6.8.Tronco.6.Vivo
+7867.2019-07-02.45934.Ciénaga Grande E-3.AG.Avicennia germinans.22.0.25.5.8.Tronco.6.Vivo
+8093.2005-06-15.45934.Ciénaga Grande E-3.AG.Avicennia germinans.20.7.25.7.8.Tronco.6.Vivo
+8097.2005-06-15.45934.Ciénaga Grande E-3.AG.Avicennia germinans.22.7.17.5.8.Tronco.6.Vivo
+8098.2005-06-15.45934.Ciénaga Grande E-3.LR.Laguncularia racemosa.18.7.8.1.7.Rama.6.Vivo
+8099.2005-06-15.45934.Ciénaga Grande E-3.AG.Avicennia germinans.18.7.11.5.8.Tronco.6.Vivo
+8105.2005-06-15.45934.Ciénaga Grande E-3.AG.Avicennia germinans.20.67.13.5.7.Rama.6.Vivo
+8108.2005-06-15.45934.Ciénaga Grande E-3.AG.Avicennia germinans.18.2.12.4.8.Tronco.6.Vivo
+8115.2010-06-16.45934.Ciénaga Grande E-3.RM.Rhizophora mangle.17.0.11.1.8.Tronco.6.Vivo
+8151.1999-10-20.45934.Ciénaga Grande E-3.AG.Avicennia germinans.17.57.23.95.8.Tronco.6.Vivo
+8165.2021-06-22.45934.Ciénaga Grande E-3.RM.Rhizophora mangle.18.0.15.5.7.Rama.6.Vivo
+8169.2021-06-22.45934.Ciénaga Grande E-3.AG.Avicennia germinans.23.0.29.9.8.Tronco.6.Vivo
+8170.2021-06-22.45934.Ciénaga Grande E-3.AG.Avicennia germinans.20.0.29.5.8.Tronco.6.Vivo
+8171.2021-06-22.45934.Ciénaga Grande E-3.RM.Rhizophora mangle.18.0.30.4.8.Tronco.6.Vivo
+8172.2021-06-22.45934.Ciénaga Grande E-3.AG.Avicennia germinans.17.0.22.1.8.Tronco.6.Vivo
+8175.2021-06-22.45934.Ciénaga Grande E-3.RM.Rhizophora mangle.23.0.15.5.8.Tronco.6.Vivo
+8178.2021-06-22.45934.Ciénaga Grande E-3.RM.Rhizophora mangle.18.0.20.5.8.Tronco.6.Vivo
+8179.2021-06-22.45934.Ciénaga Grande E-3.RM.Rhizophora mangle.18.0.14.5.8.Tronco.6.Vivo
+8180.2021-06-22.45934.Ciénaga Grande E-3.RM.Rhizophora mangle.20.0.26.0.8.Tronco.6.Vivo
+8181.2021-06-22.45934.Ciénaga Grande E-3.RM.Rhizophora mangle.22.0.14.2.8.Tronco.6.Vivo
+8226.1995-07-29.45934.Ciénaga Grande E-3.AG.Avicennia germinans.17.5.22.7.8.Tronco.6.Vivo
+8254.2012-05-30.45934.Ciénaga Grande E-3.AG.Avicennia germinans.18.0.25.3.8.Tronco.6.Vivo
+8258.2012-05-30.45934.Ciénaga Grande E-3.RM.Rhizophora mangle.18.0.25.7.8.Tronco.6.Vivo
+8293.2012-05-30.45934.Ciénaga Grande E-3.AG.Avicennia germinans.18.0.28.8.8.Tronco.6.Vivo
+8483.2013-07-03.47837.Luna -2.AG.Avicennia germinans.18.0.22.4.8.Tronco.6.Vivo
+8491.2013-07-03.47837.Luna -2.AG.Avicennia germinans.18.0.20.9.8.Tronco.6.Vivo
+8538.2013-07-03.47837.Luna -2.LR.Laguncularia racemosa.18.0.15.5.8.Tronco.6.Vivo
+8926.2012-12-06.47837.Luna -2.AG.Avicennia germinans.18.0.21.5.8.Tronco.6.Vivo
+8933.2012-12-06.47837.Luna -2.AG.Avicennia germinans.18.0.20.8.8.Tronco.6.Vivo
+8934.2012-12-06.47837.Luna -2.AG.Avicennia germinans.18.0.16.5.8.Tronco.6.Vivo
+8943.2012-12-06.47837.Luna -2.LR.Laguncularia racemosa.20.0.12.8.8.Tronco.6.Vivo
+8974.2012-12-06.47837.Luna -2.LR.Laguncularia racemosa.18.0.13.6.8.Tronco.6.Vivo
